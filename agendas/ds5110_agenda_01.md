@@ -35,8 +35,6 @@ As time permits:
 
 ### Rivanna JupyterLab request page
 
-Request PySpark server
-
 | Key       | Value |
 | ----------- | :-----------: |
 | Rivanna Partition | Interactive, Standard |
