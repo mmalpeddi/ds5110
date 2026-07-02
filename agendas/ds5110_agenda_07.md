@@ -21,5 +21,5 @@
 - Review notebook: MLlib – Clustering
 - Review slides: k-means Extensions
 - Review Lab: Clustering Fidelity Mutual Funds
-- Review Dimension Reduction NB
+- [begin] Review Dimension Reduction NB
 
