@@ -6,14 +6,11 @@
 - Lab 6: Clustering Fidelity Mutual Funds
 - Quiz 7: Dimension Reduction, Clustering
 
-### Deliverables due Friday, Oct 17 at 11:59pm ET:
+### Deliverables due Friday, July 17th at 11:59pm ET:
 
-- Quiz: ML pipelines, Transformations, and Recommender Systems
-- Lab: Recommender Systems Using Music Tracks from Autoscrobbler 
-- Journaling: Modules 4-6 completed
-
----
-
+- Lab 7: Recommender Systems Using Music Tracks from Autoscrobbler
+- Quiz 8: Transformations, ML Pipelines, Model Tuning, and Recommender Systems
+- Journaling: Modules 1-8 completed
 
 ---
 
